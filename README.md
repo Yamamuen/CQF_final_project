@@ -3,7 +3,7 @@
 
 ### Enzo Yamamura
 ---
-### Assignment: Deep Learning to Predict Asset Movement
+### Assignment: Deep Learning for Financial Time Series (DL)
 ---
 
 ### Sections

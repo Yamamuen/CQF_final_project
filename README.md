@@ -1,9 +1,9 @@
 # CQF - Final Project - 2022
-***
+
 
 ### Enzo Yamamura
 ---
-####Assignment: Deep Learning to Predict Asset Movement
+### Assignment: Deep Learning to Predict Asset Movement
 ---
 
 ### Sections

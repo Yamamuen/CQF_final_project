@@ -1,0 +1,2 @@
+round_epochs,loss,accuracy,precision,recall,f1,specificity,val_loss,val_accuracy,val_precision,val_recall,val_f1,val_specificity,lr,lr,neurons,dropout,batch_size,epochs,optimizer,activation,dense_neurons,window
+4,0.6853132843971252,0.5553264617919922,0.5553374886512756,1.0,0.699856698513031,0.0,0.6923630237579346,0.5207756161689758,0.510869562625885,0.97826087474823,0.6577216982841492,0.0,0.001,0.01,8,0,8,50,Nadam,relu,8,5

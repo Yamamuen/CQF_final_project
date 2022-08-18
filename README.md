@@ -14,14 +14,6 @@
 
 * [LSTM Modeling and results](DL.ipynb)
 
-* [Project's Document](CQF.pdf)
-
----
-### Sources:
-
-* CQF Learning Portal
-
-* Towards Data Science
-
+* [Project's Text](CQF.pdf)
 
 

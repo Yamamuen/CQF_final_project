@@ -14,6 +14,8 @@
 
 * [LSTM Modeling and results](DL.ipynb)
 
+* [LSTM Alternative Modeling and results](Alternative_DL.ipynb)
+
 * [Project's Text](CQF.pdf)
 
 

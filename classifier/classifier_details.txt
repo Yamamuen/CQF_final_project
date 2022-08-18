@@ -1,0 +1,12 @@
+,0
+experiment_name,lstm_model_val2
+random_method,uniform_mersenne
+reduction_method,
+reduction_interval,50
+reduction_window,20
+reduction_threshold,0.2
+reduction_metric,val_acc
+experiment_id,081722185729
+complete_time,08/17/22/20:46
+x_shape,"(1460, 16)"
+y_shape,"(1460,)"

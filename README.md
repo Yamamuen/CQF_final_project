@@ -3,18 +3,18 @@
 
 ### Enzo Yamamura
 ---
-### Assignment: Deep Learning for Financial Time Series (DL)
+### Final Project: Deep Learning for Financial Time Series (DL)
 ---
 
-### Sections
+### Notebooks:
 
-* [Data Processing and Wrangling & Exploratory Data Analysis](link.com)
+* [Reddit Sentiment Analysis](sentiments.ipynb) (csv was not uploaded due to its size)
 
-* [Processing Logs](link.com):where all the procedures above are documented.
+* [Data - processing, analysis, feature engineering and selection](processing_EDA.ipynb)
 
-* [LSTM Modeling](link.com)
+* [LSTM Modeling and results](DL.ipynb)
 
-* [Project's Document](link.com)
+* [Project's Document](CQF.pdf)
 
 ---
 ### Sources:
